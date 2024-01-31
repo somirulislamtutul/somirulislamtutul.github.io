@@ -94,7 +94,7 @@
 
 .home .content h3{
     color: white;
-    font-size: 23px;
+    font-size: 25px;
     font-weight: 600;
     text-shadow: 0px 1px 1px black;
     margin-top: 5px;
@@ -121,15 +121,15 @@
     animation: changetext 15s infinite linear;
 }
 @keyframes changetext{
-    10%{content: "France";}
-    20%{content: "India";}
-    30%{content: "USA";}
-    40%{content: "UK";}
-    0%{content: "France";}
-    60%{content: "Nepal";}
-    70%{content: "Srilanka";}
-    80%{content: "Pakisthan";}
-    90%{content: "Italy";}
+    10%{content: "Nairobi";}
+    20%{content: "Mombasa";}
+    30%{content: "Kisumu";}
+    40%{content: "Nakuru";}
+    0%{content: "Eldoret";}
+    60%{content: "Kitale";}
+    70%{content: "Kakamega";}
+    80%{content: "Naivasha";}
+    90%{content: "Uganda";}
     100%{content: "Bangladesh";}
 }
 .home .content h2{
